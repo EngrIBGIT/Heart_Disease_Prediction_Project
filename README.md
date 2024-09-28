@@ -46,7 +46,7 @@ The dataset contains medical data of individuals and whether they have heart dis
 - **Important Features**: The most significant predictors of heart disease include age, cholesterol levels, and resting blood pressure.
 - **Platform Impact**: This model provides healthcare practitioners with a valuable tool to predict the likelihood of heart disease using basic health measurements.
 
-![Heart Disease Dataset](dsn_hrt_lg.PNG)
+Ibrahim Notebook for Heart_Disease_Prediction.ipynb
 
 ## How to Use This Repository
 ### Prerequisites
